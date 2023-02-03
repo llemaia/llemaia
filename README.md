@@ -9,7 +9,7 @@
 
 - 🔭 Estou à procura de um estágio
 
-- 🌱 Iniciando minha carreira como programadora full-stack
+- 🌱 Iniciando minha carreira como programadora 
 
 - 💬 Aceito dicas e ensinamentos
 
